@@ -1,0 +1,4 @@
+[core]
+    remote = euler
+['remote "euler"']
+    url = ssh:///euler.ethz.ch:/cluster/work/gdc/people/flamme/my-data/dvc-test
